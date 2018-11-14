@@ -8,4 +8,4 @@ And i have made account rich@gc.ca with password Abcd123$.
 this has social authentication with Google as well as Microsoft as Bonus.
 the links of azure and github are below:
 azure :
-GitHub :
+GitHub :  https://github.com/Honey23/Part1
